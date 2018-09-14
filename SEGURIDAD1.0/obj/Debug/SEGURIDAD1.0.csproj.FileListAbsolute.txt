@@ -1,0 +1,9 @@
+c:\users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe.config
+C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe
+C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.pdb
+C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csprojResolveAssemblyReference.cache
+C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Form1.resources
+C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Properties.Resources.resources
+C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csproj.GenerateResource.Cache
+C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.exe
+C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.pdb
