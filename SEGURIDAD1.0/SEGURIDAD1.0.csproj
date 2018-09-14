@@ -64,6 +64,12 @@
     <Compile Include="bitacora.Designer.cs">
       <DependentUpon>bitacora.cs</DependentUpon>
     </Compile>
+    <Compile Include="ErrorBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorBD.Designer.cs">
+      <DependentUpon>ErrorBD.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +80,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="bitacora.resx">
       <DependentUpon>bitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorBD.resx">
+      <DependentUpon>ErrorBD.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
