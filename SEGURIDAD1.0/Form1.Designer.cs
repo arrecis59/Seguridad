@@ -35,6 +35,8 @@
             this.mantenimientoAPerfilesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.asignacionDePerfilesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mantenimientoDePerfilesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.asignaciónDeAplicacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.permisosExtraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -43,7 +45,8 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mantenimientoAPerfilesToolStripMenuItem,
-            this.aToolStripMenuItem});
+            this.aToolStripMenuItem,
+            this.asignaciónDeAplicacionesToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
@@ -98,10 +101,26 @@
             this.mantenimientoDePerfilesToolStripMenuItem.Text = "Mantenimiento de perfiles";
             this.mantenimientoDePerfilesToolStripMenuItem.Click += new System.EventHandler(this.mantenimientoDePerfilesToolStripMenuItem_Click);
             // 
+            // asignaciónDeAplicacionesToolStripMenuItem
+            // 
+            this.asignaciónDeAplicacionesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.permisosExtraToolStripMenuItem});
+            this.asignaciónDeAplicacionesToolStripMenuItem.Name = "asignaciónDeAplicacionesToolStripMenuItem";
+            this.asignaciónDeAplicacionesToolStripMenuItem.Size = new System.Drawing.Size(201, 24);
+            this.asignaciónDeAplicacionesToolStripMenuItem.Text = "Asignación de aplicaciones";
+            // 
+            // permisosExtraToolStripMenuItem
+            // 
+            this.permisosExtraToolStripMenuItem.Name = "permisosExtraToolStripMenuItem";
+            this.permisosExtraToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.permisosExtraToolStripMenuItem.Text = "Permisos extra";
+            this.permisosExtraToolStripMenuItem.Click += new System.EventHandler(this.permisosExtraToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1181, 753);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -125,6 +144,8 @@
         private System.Windows.Forms.ToolStripMenuItem mantenimientoAPerfilesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem asignacionDePerfilesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem mantenimientoDePerfilesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem asignaciónDeAplicacionesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem permisosExtraToolStripMenuItem;
     }
 }
 

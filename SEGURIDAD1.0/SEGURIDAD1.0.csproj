@@ -70,6 +70,12 @@
     <Compile Include="ErrorBD.Designer.cs">
       <DependentUpon>ErrorBD.cs</DependentUpon>
     </Compile>
+    <Compile Include="extraApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="extraApp.Designer.cs">
+      <DependentUpon>extraApp.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ErrorBD.resx">
       <DependentUpon>ErrorBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="extraApp.resx">
+      <DependentUpon>extraApp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

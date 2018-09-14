@@ -66,5 +66,11 @@ namespace SEGURIDAD1._0
             MantPerfiles mnp = new MantPerfiles();
             mnp.Show();
         }
+
+        private void permisosExtraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            extraApp exapp = new extraApp();
+            exapp.Show();
+        }
     }
 }

@@ -64,3 +64,4 @@ C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD
 C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Form1.resources
 C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Properties.Resources.resources
 C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csproj.GenerateResource.Cache
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.extraApp.resources
