@@ -28,9 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(bitacora));
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.Btn_Filtrar = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -56,15 +57,17 @@
             this.comboBox1.TabIndex = 1;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
-            // Btn_Filtrar
+            // button1
             // 
-            this.Btn_Filtrar.ForeColor = System.Drawing.Color.Black;
-            this.Btn_Filtrar.Location = new System.Drawing.Point(398, 35);
-            this.Btn_Filtrar.Name = "Btn_Filtrar";
-            this.Btn_Filtrar.Size = new System.Drawing.Size(109, 21);
-            this.Btn_Filtrar.TabIndex = 2;
-            this.Btn_Filtrar.Text = "Filtrar por";
-            this.Btn_Filtrar.UseVisualStyleBackColor = true;
+            this.button1.ForeColor = System.Drawing.Color.Black;
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(394, 24);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(99, 40);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "     Buscar";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // bitacora
             // 
@@ -72,7 +75,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(153)))), ((int)(((byte)(183)))));
             this.ClientSize = new System.Drawing.Size(721, 355);
-            this.Controls.Add(this.Btn_Filtrar);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.dataGridView1);
             this.ForeColor = System.Drawing.Color.White;
@@ -87,6 +90,6 @@
 
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Button Btn_Filtrar;
+        private System.Windows.Forms.Button button1;
     }
 }
