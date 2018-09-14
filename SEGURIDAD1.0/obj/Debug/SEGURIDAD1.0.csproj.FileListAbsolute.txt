@@ -45,3 +45,22 @@ C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\Mantenimiento perfi
 C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\MantenimientoUsuarios.pdb
 C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\CheckBoxComboBox.pdb
 C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\Navegador.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe.config
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.exe
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\CheckBoxComboBox.dll
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\Navegador.dll
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\AsignacionModulos.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\DiseñoUsuarioPassWordCambiar.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\Mantenimiento perfiles.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\MantenimientoUsuarios.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\bin\Debug\Navegador.pdb
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csprojResolveAssemblyReference.cache
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.bitacora.resources
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.ErrorBD.resources
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Form1.resources
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Properties.Resources.resources
+C:\Users\josea\Documents\REPOSITORIOS\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csproj.GenerateResource.Cache
