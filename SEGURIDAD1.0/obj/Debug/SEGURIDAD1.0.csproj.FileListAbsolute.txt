@@ -13,3 +13,6 @@ C:\Users\Williams Cuesta\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD
 C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe.config
 C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.exe
 C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.pdb
+C:\Users\KEVIN\Source\Repos\modseguridad\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe.config
+C:\Users\KEVIN\Source\Repos\modseguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.exe
+C:\Users\KEVIN\Source\Repos\modseguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.pdb
