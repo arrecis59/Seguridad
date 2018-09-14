@@ -16,10 +16,7 @@ namespace SEGURIDAD1._0
 {
     public partial class Form1 : Form
     {
-        AsigPerfiles asp = new AsigPerfiles();
-        MantPerfiles mnp = new MantPerfiles();
-        MantenimientoUsuar mnu = new MantenimientoUsuar();
-        ControlUsuarioPass cup = new ControlUsuarioPass();
+
         public Form1()
         {
             InitializeComponent();
@@ -27,22 +24,47 @@ namespace SEGURIDAD1._0
 
         private void button1_Click(object sender, EventArgs e)
         {
-            asp.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            mnp.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            mnu.Show();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
+        }
+
+        private void aToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void controlDeUsuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ControlUsuarioPass cup = new ControlUsuarioPass();
             cup.Show();
+        }
+
+        private void mantenimientoDeUsuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoUsuar mnu = new MantenimientoUsuar();
+            mnu.Show();
+        }
+
+        private void asignacionDePerfilesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AsigPerfiles asp = new AsigPerfiles();
+            asp.Show();
+        }
+
+        private void mantenimientoDePerfilesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantPerfiles mnp = new MantPerfiles();
+            mnp.Show();
         }
     }
 }
