@@ -33,6 +33,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AsignacionModulos">
+      <HintPath>..\..\..\..\Desktop\AsignacionModulos\AsignacionModulos\bin\Debug\AsignacionModulos.dll</HintPath>
+    </Reference>
+    <Reference Include="DiseñoUsuarioPassWordCambiar">
+      <HintPath>..\..\..\..\Desktop\DiseñoUsuarioPassWordCambiar\DiseñoUsuarioPassWordCambiar\bin\Debug\DiseñoUsuarioPassWordCambiar.dll</HintPath>
+    </Reference>
+    <Reference Include="Mantenimiento perfiles">
+      <HintPath>..\..\..\..\Desktop\Mantenimiento perfiles\Mantenimiento perfiles\bin\Debug\Mantenimiento perfiles.dll</HintPath>
+    </Reference>
+    <Reference Include="MantenimientoUsuarios">
+      <HintPath>..\..\..\..\Desktop\MantenimientoUsuarios\MantenimientoUsuarios\bin\Debug\MantenimientoUsuarios.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

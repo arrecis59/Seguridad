@@ -23,3 +23,25 @@ C:\Users\KEVIN\Source\Repos\modseguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.bi
 C:\Users\KEVIN\Source\Repos\modseguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Form1.resources
 C:\Users\KEVIN\Source\Repos\modseguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Properties.Resources.resources
 C:\Users\KEVIN\Source\Repos\modseguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csproj.GenerateResource.Cache
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe.config
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.exe
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csprojResolveAssemblyReference.cache
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.bitacora.resources
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Form1.resources
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Properties.Resources.resources
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csproj.GenerateResource.Cache
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\AsignacionModulos.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\DiseñoUsuarioPassWordCambiar.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\Mantenimiento perfiles.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\MantenimientoUsuarios.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\CheckBoxComboBox.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\Navegador.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\AsignacionModulos.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\DiseñoUsuarioPassWordCambiar.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\Mantenimiento perfiles.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\MantenimientoUsuarios.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\Navegador.pdb

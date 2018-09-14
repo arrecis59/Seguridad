@@ -32,6 +32,10 @@
             this.pERFILESToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.nUEVOPERFILToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gESTIONPERFILToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -42,7 +46,8 @@
             this.pERFILESToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1182, 28);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(886, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -52,28 +57,73 @@
             this.nUEVOPERFILToolStripMenuItem,
             this.gESTIONPERFILToolStripMenuItem});
             this.pERFILESToolStripMenuItem.Name = "pERFILESToolStripMenuItem";
-            this.pERFILESToolStripMenuItem.Size = new System.Drawing.Size(80, 24);
+            this.pERFILESToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
             this.pERFILESToolStripMenuItem.Text = "PERFILES";
             // 
             // nUEVOPERFILToolStripMenuItem
             // 
             this.nUEVOPERFILToolStripMenuItem.Name = "nUEVOPERFILToolStripMenuItem";
-            this.nUEVOPERFILToolStripMenuItem.Size = new System.Drawing.Size(191, 26);
+            this.nUEVOPERFILToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.nUEVOPERFILToolStripMenuItem.Text = "NUEVO PERFIL";
             // 
             // gESTIONPERFILToolStripMenuItem
             // 
             this.gESTIONPERFILToolStripMenuItem.Name = "gESTIONPERFILToolStripMenuItem";
-            this.gESTIONPERFILToolStripMenuItem.Size = new System.Drawing.Size(191, 26);
+            this.gESTIONPERFILToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
             this.gESTIONPERFILToolStripMenuItem.Text = "GESTION PERFIL";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(21, 43);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(210, 23);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Asignacion de perfiles";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(21, 72);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(210, 23);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "Mantenimiento de perfiles";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(21, 101);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(210, 23);
+            this.button3.TabIndex = 4;
+            this.button3.Text = "Mantenimiento de usuarios";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(21, 130);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(210, 23);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "Control de usuarios";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1182, 753);
+            this.ClientSize = new System.Drawing.Size(886, 612);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Dashboard";
@@ -90,6 +140,10 @@
         private System.Windows.Forms.ToolStripMenuItem pERFILESToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem nUEVOPERFILToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem gESTIONPERFILToolStripMenuItem;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
     }
 }
 
