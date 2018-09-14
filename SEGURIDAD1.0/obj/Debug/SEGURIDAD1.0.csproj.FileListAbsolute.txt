@@ -10,3 +10,6 @@ C:\Users\josea\documents\visual studio 2015\Projects\SEGURIDAD1.0\SEGURIDAD1.0\o
 C:\Users\Williams Cuesta\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe.config
 C:\Users\Williams Cuesta\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.exe
 C:\Users\Williams Cuesta\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.pdb
+C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\bin\Debug\SEGURIDAD1.0.exe.config
+C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.exe
+C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.pdb
