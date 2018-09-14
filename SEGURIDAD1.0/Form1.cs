@@ -15,6 +15,6 @@ namespace SEGURIDAD1._0
         public Form1()
         {
             InitializeComponent();
-        }
+        }//prueba
     }
 }
