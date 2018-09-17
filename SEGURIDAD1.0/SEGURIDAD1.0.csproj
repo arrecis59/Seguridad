@@ -39,11 +39,17 @@
     <Reference Include="DiseñoUsuarioPassWordCambiar">
       <HintPath>..\..\..\..\Desktop\DiseñoUsuarioPassWordCambiar\DiseñoUsuarioPassWordCambiar\bin\Debug\DiseñoUsuarioPassWordCambiar.dll</HintPath>
     </Reference>
+    <Reference Include="MantenimientePerfiles">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2015\Projects\MantenimientePerfiles\MantenimientePerfiles\bin\Debug\MantenimientePerfiles.dll</HintPath>
+    </Reference>
     <Reference Include="Mantenimiento perfiles">
       <HintPath>..\..\..\..\Desktop\Mantenimiento perfiles\Mantenimiento perfiles\bin\Debug\Mantenimiento perfiles.dll</HintPath>
     </Reference>
     <Reference Include="MantenimientoUsuarios">
       <HintPath>..\..\..\..\Desktop\MantenimientoUsuarios\MantenimientoUsuarios\bin\Debug\MantenimientoUsuarios.dll</HintPath>
+    </Reference>
+    <Reference Include="MantenimientoUsuariosNuevo">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2015\Projects\MantenimientoUsuariosNuevo\MantenimientoUsuariosNuevo\bin\Debug\MantenimientoUsuariosNuevo.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

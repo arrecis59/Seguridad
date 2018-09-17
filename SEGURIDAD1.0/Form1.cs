@@ -11,6 +11,8 @@ using AsignacionModulos;
 using MantenimientoUsuarios;
 using Mantenimiento_perfiles;
 using DiseñoUsuarioPassWordCambiar;
+using MantenimientoUsuariosNuevo;
+using MantenimientePerfiles;
 
 namespace SEGURIDAD1._0
 {
@@ -71,6 +73,33 @@ namespace SEGURIDAD1._0
         {
             extraApp exapp = new extraApp();
             exapp.Show();
+        }
+
+        private void AbrirForm(object dshijo)
+        {
+            if (this.panel1.Controls.Count > 0)
+                this.panel1.Controls.RemoveAt(0);
+            Form ds = dshijo as Form;
+            ds.TopLevel = false;
+            ds.Dock = DockStyle.Fill;
+            this.panel1.Controls.Add(ds);
+            this.panel1.Tag = ds;
+            ds.Show();
+        }
+
+        private void mantenimientoUsuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForm(new Diseño());
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mantenimientoPerfilesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForm(new CapaDiseñoMantenimientoPerfiles());
         }
     }
 }

@@ -82,3 +82,11 @@ C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.ext
 C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Form1.resources
 C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.Properties.Resources.resources
 C:\Users\Valery\Source\Repos\seguridad2\SEGURIDAD1.0\obj\Debug\SEGURIDAD1.0.csproj.GenerateResource.Cache
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.ErrorBD.resources
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\obj\Debug\SEGURIDAD1._0.extraApp.resources
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\MantenimientoUsuariosNuevo.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\CapaDiseno.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\MantenimientoUsuariosNuevo.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\CapaDiseno.pdb
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\MantenimientePerfiles.dll
+C:\Users\vhjim\Source\Repos\seguridad\SEGURIDAD1.0\bin\Debug\MantenimientePerfiles.pdb
